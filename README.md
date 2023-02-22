@@ -1,4 +1,4 @@
-HumanCareFoundation TOKENS
+HumanCareFoundation TOKENS:
 
 HCFH: 0xdc3BAF51B6e025F9850D8eB9F5ff3476A386B497
 
